@@ -1,0 +1,2 @@
+module SpurgeonHelper
+end
